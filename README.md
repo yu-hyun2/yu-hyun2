@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyhlog.vercel.app&count_bg=%2396BC78&title_bg=%23A8A8A8&icon=vercel.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyu-hyun2&count_bg=%2396BC78&title_bg=%23A8A8A8&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### BAEK JOON
